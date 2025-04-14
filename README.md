@@ -14,4 +14,6 @@
 <br>
 <br>
 - <img src="https://github.com/luchs8/mario/blob/main/img/desktop.png" />
+<br>
+<br>
 -<img src="https://github.com/luchs8/mario/blob/main/img/mario.mobile.png"/>
