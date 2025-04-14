@@ -13,7 +13,7 @@
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <br>
 <br>
-- <img src="https://github.com/luchs8/mario/blob/main/img/MarioDesktop.png" />
+<img src="https://github.com/luchs8/mario/blob/main/img/MarioDesktop.png" />
 <br>
 <br>
--<img src="https://github.com/luchs8/mario/blob/main/img/MarioMobile.png"/>
+<img src="https://github.com/luchs8/mario/blob/main/img/MarioMobile.png"/>
