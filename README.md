@@ -1,6 +1,6 @@
 <h1>Mario</h1>
 <br>
-<h3>projeto que aprendi no<a href="https//rodolfomori.com.br/devclub"> DevClub</a</h3>
+<h3>projeto que aprendi no <a href="https//rodolfomori.com.br/devclub"> DevClub </a> </h3>
 <br>
 <br>
 <p>Esse é um projeto para aprender a fazer um site oferecendo serviços para resolver problemas hidráulicos dos Irmaos Mario e Luigi </p>
